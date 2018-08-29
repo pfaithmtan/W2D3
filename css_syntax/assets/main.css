@@ -1,0 +1,38 @@
+body {
+  font-family: 'Arial, sans-serif';
+  background-color: #bada55;
+}
+header > img {
+  width: 100px;  
+}
+
+h1 {
+  font-size: 38px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+.ingredients-list {
+  list-style: square inside;
+}
+
+.ingredients-list > li {
+  list-style: circle inside;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+#reviews {
+  margin: 80px auto;
+  width: 70%;
+}
+
+#reviews h2 {
+  font-size: 48px;
+  color: red;
+}
